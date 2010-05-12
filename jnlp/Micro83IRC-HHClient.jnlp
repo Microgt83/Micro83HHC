@@ -1,12 +1,10 @@
 <?xml version="1.0" ?>
-<jnlp spec="1.0+" codebase="http://github.com/Microgt83/IRC-Extended/raw/IRC-Extended/dist/">
+<jnlp spec="1.0+" codebase="http://github.com/Microgt83/Micro83HHC/raw/master/dist/">
   <information>
     <title>Haven and Hearth</title>
-    <vendor>Myth83</vendor>
+    <vendor>Pacho</vendor>
     <homepage href="http://www.havenandhearth.com/" />
     <description>The Haven game</description>
-    <icon href="http://www.havenandhearth.com/java/icon.gif" />
-    <icon href="http://www.havenandhearth.com/java/splash.gif" kind="splash" />
     <shortcut online="false">
       <desktop />
       <menu submenu="Haven and Hearth" />
@@ -22,8 +20,6 @@
     <property name="haven.errorhandler" value="on" />
     <property name="haven.defserv" value="sh.seatribe.se" />
     <property name="haven.fullscreen" value="off" />
-    <property name="haven.mapdir" value="/Users/JDaniels/Desktop/Haven/05042010/" />
-    <property name="haven.save_minimaps" value="off" />
     <extension name="jogl" href="http://www.havenandhearth.com/java/haven-res.jnlp" />
     <extension name="jogl" href="http://www.havenandhearth.com/java/jogl/jogl.jnlp" />
   </resources>
