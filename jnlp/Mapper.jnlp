@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <jnlp spec="1.0+" codebase="http://github.com/Microgt83/Micro83HHC/raw/master/dist/mapper/">
   <information>
-    <title>Haven and Hearth</title>
-    <vendor>dgl</vendor>
+    <title>Haven and Hearth Mapper Client</title>
+    <vendor>Micro83</vendor>
     <homepage href="http://www.havenandhearth.com/" />
     <description>The Haven game</description>
     <icon href="http://www.havenandhearth.com/java/icon.gif" />
@@ -22,7 +22,7 @@
     <property name="haven.errorhandler" value="on" />
     <property name="haven.defserv" value="sh.seatribe.se" />
     <property name="haven.fullscreen" value="off" />
-    <property name="haven.mapdir" value="/Users/dgl/havenandhearth/maps/" />
+    <property name="haven.mapdir" value="/Users/jdaniels/desktop/haven/maps/" />
     <property name="haven.save_minimaps" value="on" />
     <extension name="jogl" href="http://www.havenandhearth.com/java/haven-res.jnlp" />
     <extension name="jogl" href="http://www.havenandhearth.com/java/jogl/jogl.jnlp" />

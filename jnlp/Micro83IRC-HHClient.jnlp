@@ -2,7 +2,7 @@
 <jnlp spec="1.0+" codebase="http://github.com/Microgt83/Micro83HHC/raw/master/dist/">
   <information>
     <title>Haven and Hearth</title>
-    <vendor>Pacho</vendor>
+    <vendor>Micro83</vendor>
     <homepage href="http://www.havenandhearth.com/" />
     <description>The Haven game</description>
     <shortcut online="false">
